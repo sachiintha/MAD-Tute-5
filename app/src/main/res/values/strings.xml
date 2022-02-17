@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tute5</string>
+    <string name="btnSelectAll">Select ALL</string>
+    <string name="btnAdd">ADD</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnUpdate">Update</string>
+</resources>
